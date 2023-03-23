@@ -1,3 +1,5 @@
+#importing image prediction library
+
 from imageai.Prediction import ImagePrediction
 import os
 execution_path=os.getcwd()
